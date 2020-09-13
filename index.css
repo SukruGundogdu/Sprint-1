@@ -55,10 +55,10 @@ p {
 }
 
 img {
-    /* display: flex; */
     width: 300px;
     border-radius: 6px;
 }
+
 
 .img1 {
     display: flex;
@@ -78,7 +78,6 @@ img {
 .img4 {
     display: flex;
     margin-top: 45px;
-    margin-left: 45px;
 }
 
 .img5 {
